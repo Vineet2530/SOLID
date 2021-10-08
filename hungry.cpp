@@ -5,9 +5,11 @@ int main()
 {
     char ch;
     cin>>ch;
-    if(ch=='y')
+    if(ch=='y'){
         cout<<"Eat samosa";
         cout<<"Eat pizza";
+        cout<<"Eat more pizzaS";
+}
     else
         cout<<"Do you homework.";
     
