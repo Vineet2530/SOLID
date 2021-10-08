@@ -12,7 +12,7 @@ int main()
 }
     else
         cout<<"Do you homework.";
-    
+        cout<<"Making changes in master branch";    
    // cout<<"I am hungry.\n";
     return 0;
 
